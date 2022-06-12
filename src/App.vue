@@ -37,8 +37,8 @@
 <template>
   <div id="main" @mousemove="mousemove">
     <div class="social-media">
-      <a href="https://github.com/NowakMateusz"><img alt="GitHub" class="icons github" src="@/assets/github.png" /></a>
-      <a href="https://www.linkedin.com/in/mateusz-nowak-4578aaaa"><img alt="LinkedIn" class="icons linkedin" src="@/assets/linkedin.png" /></a>
+      <a target="_blank" href="https://github.com/NowakMateusz/bio/"><img alt="GitHub" class="icons github" src="@/assets/github.png" /></a>
+      <a target="_blank" href="https://www.linkedin.com/in/mateusz-nowak-4578aaaa"><img alt="LinkedIn" class="icons linkedin" src="@/assets/linkedin.png" /></a>
     </div>
     <div id="heading-section" class="is-flex">
       <div class="coffee">

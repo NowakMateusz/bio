@@ -28,14 +28,16 @@
     "prettier": "^2.5.1",
     "vite": "^2.9.12",
     "sass": "^1.52.3",
-    "sass-loader": "^12.6.0"
+    "sass-loader": "^12.6.0",
+    "webpack": "^5.0.0"
   },
   "eslintConfig": {
     "root": true,
     "env": {
       "node": true,
       "browser": true,
-      "es2021": true
+      "es2021": true,
+      "vue/setup-compiler-macros": true
     },
     "extends": [
       "plugin:prettier/recommended",

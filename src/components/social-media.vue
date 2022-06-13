@@ -17,7 +17,7 @@
       display: flex;
       flex-direction: column;
       a {
-        width: auto;
+        width: fit-content;
         cursor: pointer;
 
         img {

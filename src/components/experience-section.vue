@@ -9,25 +9,22 @@
           <li>
             <b>Poznan University of Technology (employee of central IT department)</b><span>09/2013 – Present</span>
             <blockquote>
-              I was hired as System Administrator, in meantime I was promoted to IT Specialist/DevOps and next to Section Manager (in end of 2022 head of 18 persons) – my Section handle
-              hundreds of hardware and virtual machines/servers. Job on university learn me how to handle big and complex IT ecosystems.
+              I was hired as a System Administrator, promoted to IT Specialist/DevOps and now being in a role of Section Manager (in end of 2022 head of 18 employees) – my Section manages hundreds of physical and Virtual Machines/Servers. The job on the University taught me how to handle large and complex IT ecosystems.
             </blockquote>
           </li>
           <li>
             <b>Partner IT Mateusz Nowak (owner)</b><span>04/2010 – Present</span>
             <blockquote>
-              The company is target on outsourcing IT. Customers don’t change and are on long-term agreements. Customers are: high school, notary office, some production companies. On
-              those customers I recreated from scratch and maintained whole IT structures, in some cases I develop software. In meantime my company changed to Partner IT – Magdalena
-              Nowak i Mateusz Nowak s.c. Company don’t have other permanent employees and when is the need I'm employing under civil contracts to special tasks.
+              The Company is targeted on IT outsourcing. The Customers are on long-term agreements and don’t change. Amongst them are: a high school, a notary office, and a few production companies. For these Customers I have developed from scratch and maintained entire IT structures, and occasionally developed software. At some point, my Company transformed to “Partner IT – Magdalena Nowak i Mateusz Nowak s.c.” There are no other permanent employees - civil contracts for special tasks are concluded as required.
             </blockquote>
           </li>
           <li>
             <b>DomData AG Sp. z o.o. (employee of software development section)</b><span>07/2013 – 08/2013</span>
-            <blockquote>Programmer .NET C# - where I was focused on creating bank targeted software.</blockquote>
+            <blockquote>Programmer .NET C# - I was focusing on bank targeted software development.</blockquote>
           </li>
           <li>
             <b>Coleos S.A. (employee on civil contract)</b><span>09/2012 – 09/2013</span>
-            <blockquote>System administrator, program architect, programmer ASP.NET C# - I was focused on creating advertisement software.</blockquote>
+            <blockquote>System administrator, program architect, programmer ASP.NET C# - I was working on advertisement software development.</blockquote>
           </li>
           <li>
             <b>PC Service D. Nogaj and S. Łabowski s.c. (employee of outsourcing IT section)</b><span>04/2009 – 09/2009</span>

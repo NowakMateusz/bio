@@ -104,7 +104,7 @@
             </ul>
           </div>
           <div>
-            <p>I have less experience as well on other languages: PHP, Ruby</p>
+            <p>I have some experience as well on other languages: PHP, Ruby</p>
           </div>
         </section>
         <section ref="devops" id="devops">
@@ -115,11 +115,11 @@
           <h4>DevOps/System Administrator field</h4>
           <ul>
             <li>
-              <p>Advanced handling of platforms:</p>
+              <p>Advanced handling of the following platforms:</p>
               <p>Microsoft Windows, Windows Servers UNIX*: RHEL / Debian / Ubuntu / openSUSE / XenServer, FreeBSD, NetBSD, pfSense.</p>
             </li>
             <li>
-              <p>Handling and managing networks IPv4/IPv6:</p>
+              <p>Handling and managing IPv4/IPv6 networks:</p>
               <p>LAN, VLAN, WLAN, VPN</p>
             </li>
             <li>
@@ -135,7 +135,7 @@
               <p>Apache, nginx, Tomcat, WildFire, Microsoft IIS</p>
             </li>
             <li>
-              <p>Virtualization ecosystems:</p>
+              <p>Knowledge of Virtualization ecosystems:</p>
               <p>VMware, Xen, Hyper-V, KVM/QEMU/oVirt</p>
             </li>
             <li>
@@ -160,7 +160,7 @@
               <p>Management of CheckPoint, Netasq, pfSense, Windows, native iptables/nftables firewalls</p>
             </li>
             <li>
-              <p>Knowledge of issues related to security systems and services</p>
+              <p>Familiarity with of issues related to security systems and services</p>
             </li>
           </ul>
         </section>

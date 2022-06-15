@@ -2,12 +2,11 @@
   <div id="intro-section" class="is-flex">
     <div id="intro" class="box">
       <h3>Feel it!</h3>
-      <p>Computers are my life passion. In high school I got my first one. In a few months I dive deep in to them. I start knowing Windows, start creating first tool apps.</p>
+      <p>Computers are my life passion. I got my first one in high school and, in just few months, I have dived deep into it. I started with Windows, where I was developing first tool apps.</p>
       <p>
-        An avalanche flew quicker and quicker. I learn new things: new OS, new languages, new technologies. In the same school I start making extra money by repairing computers, some
-        system issues, diagnose and change broken hardware.
+        The avalanche flew quicker and quicker. I began exploring new areas: other OS, new languages, different technologies. Still in high school, I started making extra money by repairing computers, resolving system issues, diagnosing, and replacing broken hardware.
       </p>
-      <p>This was my history, and this is probably yours too!</p>
+      <p>This is my history, and I wouldn’t be surprised if we share it!</p>
     </div>
   </div>
 </template>

@@ -69,6 +69,7 @@
             <span>Frameworks</span>
             <ul>
               <li>Vue (Option and Composition API)</li>
+              <li>Strapi</li>
               <li>Nuxt 3</li>
               <li>Bootstrap</li>
               <li>Buefy</li>
